@@ -8,19 +8,19 @@ NetStatusDelay = 10 #打开浏览器x秒后模拟Enter键，视网速情况自�
 
 """
 Meetings = [
- [0,'https://zoom.com.cn/j/691620952?pwd=WmNLV2xaMC9JdmEwakc4WUNXSmRHdz09',0,0,'https://zoom.com.cn/j/158390142?pwd=ZENBMTMxWTV3c3duT3ZMTm1OSzVxQT09']
-,['https://zoom.com.cn/j/671315846?pwd=alUzOE8weUV3Y0FIczN2QkFvQTF5dz09',0,0,0,0]
-,[0,'https://zoom.com.cn/j/709527567?pwd=eGJtamlMVmJJM0Qwc1F1a0h4SlpwZz09',0,'https://zoom.com.cn/j/875144514?pwd=bWpzNEVxNDBEUlBXbFhsV2FOMWtxUT09','https://zoom.com.cn/j/289810142?pwd=VHEwUVplU0cyWWpaRzFYbUw5YmMvQT09']
-,[0,'https://zoom.com.cn/j/671315846?pwd=alUzOE8weUV3Y0FIczN2QkFvQTF5dz09',0,0,0]
-,[0,'https://zoom.com.cn/j/910288926?pwd=WnJ0Qng2T1Y1cmJ1L0crbEpJQnlSQT09',0,'https://zoom.com.cn/j/192814831?pwd=bFpyckFKd3htOUlFdWdId3k3c3o5QT09',0]
+     [0,'https://zoom.com.cn/j/691620952?pwd=WmNLV2xaMC9JdmEwakc4WUNXSmRHdz09',0,0,'https://zoom.com.cn/j/158390142?pwd=ZENBMTMxWTV3c3duT3ZMTm1OSzVxQT09']
+    ,['https://zoom.com.cn/j/671315846?pwd=alUzOE8weUV3Y0FIczN2QkFvQTF5dz09',0,0,0,0]
+    ,[0,'https://zoom.com.cn/j/709527567?pwd=eGJtamlMVmJJM0Qwc1F1a0h4SlpwZz09',0,'https://zoom.com.cn/j/875144514?pwd=bWpzNEVxNDBEUlBXbFhsV2FOMWtxUT09','https://zoom.com.cn/j/289810142?pwd=VHEwUVplU0cyWWpaRzFYbUw5YmMvQT09']
+    ,[0,'https://zoom.com.cn/j/671315846?pwd=alUzOE8weUV3Y0FIczN2QkFvQTF5dz09',0,0,0]
+    ,[0,'https://zoom.com.cn/j/910288926?pwd=WnJ0Qng2T1Y1cmJ1L0crbEpJQnlSQT09',0,'https://zoom.com.cn/j/192814831?pwd=bFpyckFKd3htOUlFdWdId3k3c3o5QT09',0]
 ]
 
 ifRecord = [
- [0,0,0,0,0]
-,[0,0,0,0,0]
-,[0,0,0,0,0]
-,[0,0,0,0,0]
-,[0,0,0,0,0]
+     [0,0,0,0,0]
+    ,[0,0,0,0,0]
+    ,[0,0,0,0,0]
+    ,[0,0,0,0,0]
+    ,[0,0,0,0,0]
 ]
 """
 ### 学期结束了，所以注释掉了上面的课程表，下面是小学期的课程，每天都是同一个链接
